@@ -1,0 +1,108 @@
+body{
+	background-image: url("../styles/Town_and_Country_fh000023.jpg");
+}
+
+.booking{
+	background-image:
+	border: 3px solid #000;
+	border-radius: 3px;
+	padding-top: 10px;
+	padding-right: 35px;
+	padding-bottom: 5px;
+	width: 50%;
+	background-color: gray;
+	margin-top: 200px;
+	margin-left: 330px;
+	font-family: cursive;
+	font-size:20px;
+}
+#chin{
+	width: 25%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;
+	
+}
+
+#chout{
+	width: 25%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	background-color: #A9A9A9;
+	color:white;
+	display: inline-block;
+	box-sizing: inherit;	
+	display: inline-block;
+}
+#timein{
+	width: 25%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;
+}
+#timeout{
+	width: 25%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;	
+}
+#adults{
+	width: 8%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 10px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;	
+	
+}
+#childern{
+	
+	width: 8%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;	
+	
+}
+#rooms{
+	width: 9%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	margin-left: 8px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: #A9A9A9;
+	color:white;	
+	
+}
+input[type=Submit]{
+	width: 100%;
+	cursor: pointer;
+	background-color: #6B8E23;
+	color:black;
+	padding: 10px;
+	border-radius: 10px;
+	margin-left:10px;
+	font-family: cursive;
+	font-size: 20px;		
+}
+
